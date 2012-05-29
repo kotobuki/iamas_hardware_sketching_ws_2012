@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-               BuildableName = "01_serialReceive.app"
+               BuildableName = "02_controlSound.app"
                BlueprintName = "02_controlSound"
                ReferencedContainer = "container:02_controlSound.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "01_serialReceive.app"
+            BuildableName = "02_controlSound.app"
             BlueprintName = "02_controlSound"
             ReferencedContainer = "container:02_controlSound.xcodeproj">
          </BuildableReference>
@@ -52,7 +52,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "01_serialReceive.app"
+            BuildableName = "02_controlSound.app"
             BlueprintName = "02_controlSound"
             ReferencedContainer = "container:02_controlSound.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "01_serialReceive.app"
+            BuildableName = "02_controlSound.app"
             BlueprintName = "02_controlSound"
             ReferencedContainer = "container:02_controlSound.xcodeproj">
          </BuildableReference>
