@@ -1,2 +1,22 @@
+#reference: https://github.com/tado/openFrameworks_workshop12_day1/blob/master/.gitignore
+#xcode specific
+build/*
+*.pbxuser
+*.mode2v3
+*.mode1v3
+*.perspective
+*.perspectivev3
+*~.nib
 
-.DS_Store
+#ignore private workspace stuff added by Xcode4
+xcuserdata
+project.xcworkspace
+ 
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+*.app
