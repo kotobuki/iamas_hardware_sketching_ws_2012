@@ -11,7 +11,7 @@ const int ledPin = 13;
 // ボタンが押されたら
 void onPressed(ActionButton & btn) {
   // シリアルに状態をプリントし
-  Serial.println("pressed"); 
+  Serial.println("p");
 
   // LEDを点灯
   digitalWrite(ledPin, HIGH);
@@ -20,7 +20,7 @@ void onPressed(ActionButton & btn) {
 // ボタンが離されたら
 void onReleased(ActionButton & btn) {
   // シリアルに状態をプリントし
-  Serial.println("released");   
+  Serial.println("r");
 
   // LEDを消灯
   digitalWrite(ledPin, LOW);
@@ -29,7 +29,7 @@ void onReleased(ActionButton & btn) {
 // ボタンが長押しされたら
 void onSustainedPress(ActionButton & btn) {
   // シリアルに状態をプリントし
-  Serial.println("sustained"); 
+  Serial.println("s");
 
   // 3回点滅
   for (int i = 0; i < 3; i++) {
